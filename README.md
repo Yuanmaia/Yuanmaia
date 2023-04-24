@@ -1,4 +1,4 @@
-### Olá! eu sou Edilson Madruga 🤙
+### Olá! eu sou Yuan Maia 🤙
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a702cc&height=120&section=header"/>
 
